@@ -1,0 +1,16 @@
+SusikaQueenPiano open-source notices
+
+Music: ten Kevin MacLeod recordings, CC BY 4.0. See attribution.txt and provenance.json. Music is separately licensed from the MIT game code.
+Manrope: Mikhail Sharanda, Open Font License 1.1. See manrope-OFL.txt.
+SoundTouchJS audio-worklet 2.1.1: Olli Parviainen, Ryan Berdeen, Jakub Fiala, Steve Cutter Blades and contributors, MPL 2.0. See SoundTouch-MPL-2.0.txt.
+The SoundTouch package is unmodified. Its distributable source is available at:
+https://www.npmjs.com/package/@soundtouchjs/audio-worklet/v/2.1.1
+https://github.com/cutterbl/SoundTouchJS
+
+React and React DOM: Meta Platforms, Inc. and affiliates, MIT.
+PixiJS: Mat Groves and contributors, MIT.
+Capacitor: Ionic and contributors, MIT.
+Lucide: Lucide contributors, ISC; Feather-derived icons, MIT.
+Copies of the corresponding runtime license notices are included alongside this file.
+
+Full production dependency inventory and copied notices: dependencies.json and dependencies/.

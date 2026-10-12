@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SusikaQueenPiano crowned piano mark">
+  <g id="piano" fill="#A43870">
+    <rect id="key-1" x="128" y="252" width="48" height="140" rx="24"/>
+    <rect id="key-2" x="196" y="216" width="48" height="176" rx="24"/>
+    <rect id="key-3" x="264" y="244" width="48" height="148" rx="24"/>
+    <rect id="key-4" x="332" y="208" width="48" height="184" rx="24"/>
+  </g>
+  <g id="crown" fill="#593157">
+    <path id="crown-points" d="M154 184 L144 118 L210 147 L256 80 L302 147 L368 118 L358 184 Z"/>
+    <rect id="crown-band" x="155" y="177" width="202" height="17" rx="8"/>
+  </g>
+</svg>

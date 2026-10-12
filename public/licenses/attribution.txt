@@ -1,0 +1,46 @@
+SusikaQueenPiano music credits
+
+All 10 recordings by Kevin MacLeod (incompetech.com).
+Licensed under Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+Music is separately licensed from the MIT game code. No endorsement is implied.
+
+Monkeys Spinning Monkeys — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011
+Bundled file: /audio/km-monkeys-spinning-monkeys.mp3
+
+Fluffing a Duck — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768
+Bundled file: /audio/km-fluffing-a-duck.mp3
+
+Sneaky Snitch — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100772
+Bundled file: /audio/km-sneaky-snitch.mp3
+
+Carefree — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037
+Bundled file: /audio/km-carefree.mp3
+
+Local Forecast - Elevator — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012
+Bundled file: /audio/km-local-forecast-elevator.mp3
+
+Scheming Weasel (faster version) — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100085
+Bundled file: /audio/km-scheming-weasel-faster-version.mp3
+
+Cipher — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100844
+Bundled file: /audio/km-cipher.mp3
+
+Pixel Peeker Polka - faster — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100833
+Bundled file: /audio/km-pixel-peeker-polka-faster.mp3
+
+Jaunty Gumption — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300017
+Bundled file: /audio/km-jaunty-gumption.mp3
+
+Merry Go — Kevin MacLeod (incompetech.com). Licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Re-encoded to 112 kbps MP3; no musical edits. Playback speed may be changed by the player.
+Original recording: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100731
+Bundled file: /audio/km-merry-go.mp3

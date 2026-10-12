@@ -1,0 +1,279 @@
+[
+  {
+    "name": "@capacitor/android",
+    "version": "8.5.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@capacitor/android/v/8.5.3",
+    "repository": "git+https://github.com/ionic-team/capacitor.git",
+    "notices": [
+      "dependencies/capacitor__android-8.5.3-LICENSE"
+    ]
+  },
+  {
+    "name": "@capacitor/app",
+    "version": "8.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@capacitor/app/v/8.0.1",
+    "repository": "git+https://github.com/ionic-team/capacitor-plugins.git",
+    "notices": [
+      "dependencies/capacitor__app-8.0.1-LICENSE"
+    ]
+  },
+  {
+    "name": "@capacitor/core",
+    "version": "8.5.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@capacitor/core/v/8.5.3",
+    "repository": "git+https://github.com/ionic-team/capacitor.git",
+    "notices": [
+      "dependencies/capacitor__core-8.5.3-LICENSE"
+    ]
+  },
+  {
+    "name": "@capacitor/filesystem",
+    "version": "8.1.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@capacitor/filesystem/v/8.1.2",
+    "repository": "https://github.com/ionic-team/capacitor-filesystem.git",
+    "notices": [
+      "dependencies/capacitor__filesystem-8.1.2-LICENSE"
+    ]
+  },
+  {
+    "name": "@capacitor/haptics",
+    "version": "8.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@capacitor/haptics/v/8.0.1",
+    "repository": "https://github.com/ionic-team/capacitor-haptics",
+    "notices": [
+      "dependencies/capacitor__haptics-8.0.1-LICENSE"
+    ]
+  },
+  {
+    "name": "@capacitor/synapse",
+    "version": "1.0.4",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/@capacitor/synapse/v/1.0.4",
+    "notices": [
+      "dependencies/capacitor__synapse-1.0.4-LICENSE.md"
+    ]
+  },
+  {
+    "name": "@fontsource-variable/manrope",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://www.npmjs.com/package/@fontsource-variable/manrope/v/5.3.0",
+    "repository": "git+https://github.com/fontsource/font-files.git",
+    "notices": [
+      "dependencies/fontsource-variable__manrope-5.3.0-LICENSE"
+    ]
+  },
+  {
+    "name": "@pixi/colord",
+    "version": "2.9.6",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@pixi/colord/v/2.9.6",
+    "repository": "omgovich/colord",
+    "notices": []
+  },
+  {
+    "name": "@soundtouchjs/audio-worklet",
+    "version": "2.1.1",
+    "license": "MPL-2.0",
+    "source": "https://www.npmjs.com/package/@soundtouchjs/audio-worklet/v/2.1.1",
+    "repository": "git+https://github.com/cutterbl/SoundTouchJS.git",
+    "notices": [
+      "dependencies/soundtouchjs__audio-worklet-2.1.1-LICENSE"
+    ]
+  },
+  {
+    "name": "@soundtouchjs/core",
+    "version": "2.1.1",
+    "license": "MPL-2.0",
+    "source": "https://www.npmjs.com/package/@soundtouchjs/core/v/2.1.1",
+    "repository": "git+https://github.com/cutterbl/SoundTouchJS.git",
+    "notices": [
+      "dependencies/soundtouchjs__core-2.1.1-LICENSE"
+    ]
+  },
+  {
+    "name": "@soundtouchjs/interpolation-strategy-lanczos",
+    "version": "2.1.1",
+    "license": "MPL-2.0",
+    "source": "https://www.npmjs.com/package/@soundtouchjs/interpolation-strategy-lanczos/v/2.1.1",
+    "repository": "git+https://github.com/cutterbl/SoundTouchJS.git",
+    "notices": [
+      "dependencies/soundtouchjs__interpolation-strategy-lanczos-2.1.1-LICENSE"
+    ]
+  },
+  {
+    "name": "@soundtouchjs/worklet-base",
+    "version": "2.1.1",
+    "license": "MPL-2.0",
+    "source": "https://www.npmjs.com/package/@soundtouchjs/worklet-base/v/2.1.1",
+    "repository": "git+https://github.com/cutterbl/SoundTouchJS.git",
+    "notices": [
+      "dependencies/soundtouchjs__worklet-base-2.1.1-LICENSE"
+    ]
+  },
+  {
+    "name": "@types/earcut",
+    "version": "3.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@types/earcut/v/3.0.0",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "notices": [
+      "dependencies/types__earcut-3.0.0-LICENSE"
+    ]
+  },
+  {
+    "name": "@webgpu/types",
+    "version": "0.1.74",
+    "license": "BSD-3-Clause",
+    "source": "https://www.npmjs.com/package/@webgpu/types/v/0.1.74",
+    "repository": "git+https://github.com/gpuweb/types.git",
+    "notices": [
+      "dependencies/webgpu__types-0.1.74-LICENSE"
+    ]
+  },
+  {
+    "name": "@xmldom/xmldom",
+    "version": "0.8.15",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@xmldom/xmldom/v/0.8.15",
+    "repository": "git://github.com/xmldom/xmldom.git",
+    "notices": [
+      "dependencies/xmldom__xmldom-0.8.15-LICENSE"
+    ]
+  },
+  {
+    "name": "earcut",
+    "version": "3.2.4",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/earcut/v/3.2.4",
+    "repository": "git://github.com/mapbox/earcut.git",
+    "notices": [
+      "dependencies/earcut-3.2.4-LICENSE"
+    ]
+  },
+  {
+    "name": "eventemitter3",
+    "version": "5.0.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/eventemitter3/v/5.0.4",
+    "repository": "git://github.com/primus/eventemitter3.git",
+    "notices": [
+      "dependencies/eventemitter3-5.0.4-LICENSE"
+    ]
+  },
+  {
+    "name": "gifuct-js",
+    "version": "2.1.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/gifuct-js/v/2.1.2",
+    "repository": "https://github.com/matt-way/gifuct-js.git",
+    "notices": [
+      "dependencies/gifuct-js-2.1.2-LICENSE"
+    ]
+  },
+  {
+    "name": "ismobilejs",
+    "version": "1.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ismobilejs/v/1.1.1",
+    "repository": "https://github.com/kaimallea/isMobile.git",
+    "notices": [
+      "dependencies/ismobilejs-1.1.1-LICENSE"
+    ]
+  },
+  {
+    "name": "js-binary-schema-parser",
+    "version": "2.0.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/js-binary-schema-parser/v/2.0.3",
+    "repository": "https://github.com/matt-way/jsBinarySchemaParser.git",
+    "notices": [
+      "dependencies/js-binary-schema-parser-2.0.3-LICENSE"
+    ]
+  },
+  {
+    "name": "lucide-react",
+    "version": "1.54.0",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/lucide-react/v/1.54.0",
+    "repository": "https://github.com/lucide-icons/lucide.git",
+    "notices": [
+      "dependencies/lucide-react-1.54.0-LICENSE"
+    ]
+  },
+  {
+    "name": "parse-svg-path",
+    "version": "0.2.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/parse-svg-path/v/0.2.0",
+    "repository": "git://github.com/jkroso/parse-svg-path.git",
+    "notices": [
+      "dependencies/parse-svg-path-0.2.0-LICENSE"
+    ]
+  },
+  {
+    "name": "pixi.js",
+    "version": "8.22.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/pixi.js/v/8.22.0",
+    "repository": "https://github.com/pixijs/pixijs.git",
+    "notices": [
+      "dependencies/pixi.js-8.22.0-LICENSE"
+    ]
+  },
+  {
+    "name": "react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react/v/19.3.0",
+    "repository": "https://github.com/react/react.git",
+    "notices": [
+      "dependencies/react-19.3.0-LICENSE"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react-dom/v/19.3.0",
+    "repository": "https://github.com/react/react.git",
+    "notices": [
+      "dependencies/react-dom-19.3.0-LICENSE"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.28.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/scheduler/v/0.28.0",
+    "repository": "https://github.com/react/react.git",
+    "notices": [
+      "dependencies/scheduler-0.28.0-LICENSE"
+    ]
+  },
+  {
+    "name": "tiny-lru",
+    "version": "11.4.7",
+    "license": "BSD-3-Clause",
+    "source": "https://www.npmjs.com/package/tiny-lru/v/11.4.7",
+    "repository": "git://github.com/avoidwork/tiny-lru.git",
+    "notices": [
+      "dependencies/tiny-lru-11.4.7-LICENSE"
+    ]
+  },
+  {
+    "name": "tslib",
+    "version": "2.8.1",
+    "license": "0BSD",
+    "source": "https://www.npmjs.com/package/tslib/v/2.8.1",
+    "repository": "https://github.com/Microsoft/tslib.git",
+    "notices": [
+      "dependencies/tslib-2.8.1-LICENSE.txt"
+    ]
+  }
+]
