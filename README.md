@@ -1,8 +1,41 @@
 # SusikaQueenPiano
 
-A cute, offline, portrait rhythm game with four lanes, dachshund hold tiles, shrinking slide ribbons, and pink/peach combo flames. Built for Android and the browser with React, PixiJS, Web Audio and Capacitor.
+A little love letter you can play with two thumbs.
 
-Download the Android test APK from [GitHub Releases](https://github.com/mckrosekri/SusikaQueenPiano/releases). Source and music are included here so you can build, remix and share the game with their respective license notices.
+Made with love for Susika, shared with everyone who enjoys music and little sausage dogs. Pick a song, find your rhythm, and turn a good streak into a stage full of pink and peach flames.
+
+**[Download for Android](https://github.com/mckrosekri/SusikaQueenPiano/releases/latest) · [Player guide](docs/PLAYING.md) · [Build it yourself](#run-locally)**
+
+[![Build and chart checks](https://github.com/mckrosekri/SusikaQueenPiano/actions/workflows/verify.yml/badge.svg)](https://github.com/mckrosekri/SusikaQueenPiano/actions/workflows/verify.yml)
+
+## A peek at the stage
+
+<p align="center">
+  <img src="docs/screenshots/library.png" width="230" alt="Song library with ten free tracks, genre filters and a featured pick" />
+  <img src="docs/screenshots/dachshund-hold.png" width="230" alt="A dachshund hold tile shrinking as it is held, surrounded by combo flames" />
+  <img src="docs/screenshots/slide-ribbon.png" width="230" alt="An Expert slide ribbon crossing lanes during a practice performance" />
+</p>
+
+Browse a song. Hold a little dog. Follow the ribbon. These are real browser captures of the included music, with scripted inputs in practice mode.
+
+## What is inside
+
+- Four portrait lanes, with charts designed for **at most two fingers**.
+- Forgiving taps, full-length dachshund holds, flicks and moving slide ribbons.
+- Ten free licensed songs, organized by genre, plus private on-device imports.
+- Easy through Expert, star unlocks, practice sections and local leaderboards.
+- Cute particles and combo flames, with reduced and minimal effects options.
+- Offline play on Android, and a browser build for desktop or mobile.
+
+Built with React, PixiJS, Web Audio and Capacitor. The source is MIT; recordings keep their separate CC BY credits. You can build, remix and share the game with those notices included.
+
+## Start playing on Android
+
+1. Open [GitHub Releases](https://github.com/mckrosekri/SusikaQueenPiano/releases/latest) and download the `.apk` under **Assets**.
+2. Open it on Android 10 or newer. If asked, allow your browser or file manager to install apps from that source.
+3. Choose a song, start on **Easy**, and tap **Start performance**. Two thumbs are all you need.
+
+The downloadable APK is a debug build for direct testing. For controls, practice, imports and audio alignment, see the [player guide](docs/PLAYING.md).
 
 ## Play
 
